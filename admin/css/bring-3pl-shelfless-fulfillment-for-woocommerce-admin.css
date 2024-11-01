@@ -1,0 +1,1049 @@
+/**
+ * Stylesheets for admin pages. - Harvey
+ */
+ .bring_3pl_shelfless_fulfillment_for_woocommerce .title-container p.h3 {
+    font-size: 23px;
+    line-height: 2;
+    font-weight: 400;
+    padding: 9px 0 4px 5px;
+    color: #1d2327;
+ }
+
+.bring-shelfless-tooltip {
+    margin: 0 0 0 5px;
+}
+
+.vas_codes_wrapper .bring-shelfless-tooltip {
+    margin-top: 5px;
+}
+
+.bring-shelfless-add-new {
+    margin: 6px 0 0 5px;
+}
+.bring-shelfless-remove {
+    margin-top: 5px;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce .tooltip .arrow {
+    margin-left: 0px; 
+}
+
+.bring-row {
+    margin-top: 1rem;
+}
+
+.float-left {
+    float: left!important;
+}
+
+.bring-settings-tabs,
+.bring-wc-settings-tabs {
+    margin-bottom: 1rem;
+}
+
+.bring-settings-tabs .nav-item {
+    margin-bottom: 0;
+}
+
+.bring-settings-tabs .nav-item .nav-link {
+    background: #dcdcde;
+    color: #50575e;
+    border-radius: 0;
+    border: 1px solid #c3c4c7;
+    text-decoration: none;
+    white-space: nowrap;
+    border-bottom: none;
+    margin-left: .5em;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 1.71428571;
+    font-weight: 600;
+    outline: none;
+}
+
+.bring-settings-tabs .nav-item .nav-link.active {
+    background: #fff;
+    color: #000;
+}
+
+.bring-settings-tabs .nav-item .nav-link:hover {
+    background-color: #fff;
+    color: #3c434a;
+}
+
+.bring-settings-tabs-content,
+.bring-wc-settings-tabs-content {
+    padding: 0 1rem 0;
+}
+
+#bring-setup-step-indicators .col {
+    padding: 0;
+    margin: 0 0 5px 0;
+    text-align: left;
+}
+
+/* #bring-setup-step-indicators .nav-item {
+    margin-bottom: -1px;
+} */
+
+#bring-setup-step-indicators .nav-item .nav-link {
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 10pt;
+    padding: 15px 8px;
+    border: 0;
+}
+
+#bring-setup-step-indicators .nav-item .nav-link:hover {
+    border-color: transparent;
+    /* border-bottom: 0 solid transparent; */
+    background: #fff;
+    border-radius: 0.25rem;
+}
+
+#bring-setup-step-indicators .nav-item .nav-link.active {
+    background-color: #ffffff;
+    border-color: transparent;
+    border-radius: 0.25rem;
+}
+
+#bring-setup-step-content {
+    background-color: #ffffff;
+    min-height: 10px;
+    border-top: 0;
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-bottom: 1px solid #dee2e6;
+    box-shadow: 1px 3px 3px 0px rgba(0,0,0,.2);
+    padding: 30px 15px;
+    -webkit-box-shadow: 1px 3px 3px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 3px 3px 0px rgba(0,0,0,0.4);
+}
+
+#bring-setup-step-content .lead {
+    font-size: 1rem;
+}
+
+.bring-setup-wizard .bring-setup-step-content .btn {
+    font-size: 13px;
+}
+
+.bring-setup-wizard .bring-setup-step-content .btn .dashicons {
+    font-size: 15px;
+    width: 15px;
+    height: 15px;
+}
+
+.bring-setup-wizard .bring-setup-step-content .table {
+    font-size: 13px;
+}
+
+#bring-setup-step-content .step-navigator {
+    text-align: right;
+    margin-top: 20px;
+
+}
+
+#bring-setup-step-content .step-navigator .btn.prev-step > .dashicons,
+#bring-setup-step-content .step-navigator .btn.next-step > .dashicons,
+#bring-setup-step-content .step-navigator .btn.finish > .dashicons {
+    margin: 3px 0;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce .button:hover,
+.bring_3pl_shelfless_fulfillment_for_woocommerce .button:active,
+.bring_3pl_shelfless_fulfillment_for_woocommerce .button:focus,
+.bring_3pl_shelfless_fulfillment_for_woocommerce .btn-primary:hover {
+    background: #0069d9;
+    border-color: #0062cc;
+    color: #fff;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce .btn {
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce .button.btn-setup-creds:disabled {
+    color: #fff!important;
+    background-color: #007bff!important;
+    border-color: #007bff!important;
+    opacity: 0.65!important;
+}
+
+#shelfless-setup-loading,
+#shelfless-inv-setup-loading,
+#shelfless-sched-action-loading,
+#shelfless-order-setup-loading, 
+#shelfless-dream-logistics-loading, 
+#shelfless-shipping-maps-setup-loading,
+#shelfless-mybring-loading, 
+#shelfless-shipping-deliveries-loading {
+    display: inline-block;
+    margin: 1px 10px;
+}
+
+.diagnostics-results, .delete_transients_results {
+    padding: 1rem 0 0;
+}
+
+#diagnostics-results {
+ display: none;   
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce_full_screen_setup_wizard #wpcontent {
+    margin: 0;
+    padding: 0;
+}
+
+.bring_3pl_shelfless_fulfillment_for_woocommerce_full_screen_setup_wizard #adminmenumain,
+.bring_3pl_shelfless_fulfillment_for_woocommerce_full_screen_setup_wizard #wpadminbar,
+.bring_3pl_shelfless_fulfillment_for_woocommerce_full_screen_setup_wizard #wpfooter {
+    display: none;
+}
+
+body.bring_3pl_shelfless_fulfillment_for_woocommerce_full_screen_setup_wizard {
+    background-color: #f0f0f1;
+}
+
+#shelfless-setup-loading.hide,
+#shelfless-inv-setup-loading.hide,
+#shelfless-sched-action-loading.hide,
+#shelfless-order-setup-loading.hide, 
+#shelfless-dream-logistics-loading.hide, 
+#shelfless-shipping-maps-setup-loading.hide,
+#shelfless-mybring-loading.hide, 
+#shelfless-shipping-deliveries-loading.hide {
+    display: none;
+}
+
+#shelfless-setup-loading.show,
+#shelfless-inv-setup-loading.show,
+#shelfless-sched-action-loading.show,
+#shelfless-order-setup-loading.show, 
+#shelfless-dream-logistics-loading.show,
+#shelfless-mybring-loading.show, 
+#shelfless-shipping-deliveries-loading.show  {
+    display: inline-block;
+}
+
+#shelfless-setup-saved,
+#shelfless-inv-setup-saved,
+#shelfless-sched-action-saved,
+#shelfless-order-setup-saved, 
+#shelfless-dream-logistics-saved, 
+#shelfless-shipping-maps-setup-saved,
+#shelfless-mybring-saved, 
+#shelfless-shipping-deliveries-saved {
+    font-size: 48px;
+    color: #28a745;
+    margin-top: -5px;
+}
+
+#shelfless-setup-saved.dashicons-no,
+#shelfless-inv-setup-saved.dashicons-no,
+#shelfless-sched-action-saved.dashicons-no,
+#shelfless-order-setup-saved.dashicons-no,
+#shelfless-dream-logistics-saved.dashicons-no, 
+#shelfless-shipping-maps-setup-saved.dashicons-no,
+#shelfless-mybring-saved.dashicons-no,
+#shelfless-shipping-deliveries-saved.dashicons-no {
+    color: #dc3545;
+}
+
+#shelfless-setup-saved.hide,
+#shelfless-inv-setup-saved.hide,
+#shelfless-order-setup-saved.hide, 
+#shelfless-dream-logistics-saved.hide,
+#shelfless-shipping-maps-setup-saved.hide,
+#shelfless-mybring-saved.hide, 
+#shelfless-shipping-deliveries-saved.hide {
+    display: none;
+}
+
+#shelfless-setup-saved.show,
+#shelfless-inv-setup-saved.show,
+#shelfless-order-setup-saved.show, 
+#shelfless-dream-logistics-saved.show,
+#shelfless-shipping-maps-setup-saved.show,
+#shelfless-mybring-saved.show, 
+#shelfless-shipping-deliveries-saved.show {
+    display: inline-block;
+}
+.nav-tabs.flex-column {
+    border-bottom: transparent;
+}
+
+.bring-setup-wizard {
+    margin-top: 20px;
+}
+
+.bring-shelfless-wizard-steps {
+    background-color: #007cba;
+    line-height: 1;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: initial;
+    border-radius: 10px;
+    margin: 0 5px 0 0; 
+}
+
+.bring-shelfless-wizard-steps.active {
+    background-color: rgba(0,0,0,.9);
+}
+
+.bring-shelfless-wizard-steps:before {
+    display: block;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font-size: smaller;
+    font-weight: bold;
+    padding-top: 3px;
+}
+
+.step-1:before {
+    content: "1";
+}
+
+.step-2:before {
+    content: "2";
+}
+
+.step-3:before {
+    content: "3";
+}
+
+.step-4:before {
+    content: "4";
+}
+
+.step-5:before {
+    content: "5";
+}
+
+.step-6:before {
+    content: "6";
+}
+
+.step-7:before {
+    content: "7";
+}
+
+.step-8:before {
+    content: "8";
+}
+
+.step-9:before {
+    content: "9";
+}
+
+p.h3.center {
+    text-align: center;
+}
+
+.jqx-menu .filter {
+    margin: 0;
+}
+
+.tab-pane .jqx-grid, 
+.tab-pane .jqx-grid-pager{
+    width: 100%!important;
+}
+
+#wrapperbring-shelfless-inventory-grid > .jqx-rc-all {
+    width: 100%!important;
+}
+
+#wrapperbring-shelfless-inventory-grid > div > .jqx-fill-state-normal {
+    border: none!important; 
+    background: transparent!important;
+}
+
+#wrapperbring-shelfless-inventory-grid .jqx-fill-state-normal > div {
+    float: none!important;
+}
+
+#wrapperbring-shelfless-inventory-grid .jqx-fill-state-normal .jqx-grid-load {
+    float: none!important;
+}
+
+.jqx-grid-load span {
+    display: none!important;
+}
+
+.tab-content .jqx-rc-all,
+.jqx-cell.jqx-grid-cell > input {
+    border-radius: 0;
+}
+.jqx-cell.jqx-grid-cell > input {
+    float: left;
+    margin-left: 3px;
+}
+
+.tab-content .jqx-widget-header {
+    background: #f6f7f7;
+}
+
+#inv-check-is-fulfill-select-all {
+    z-index: 999; margin-left: 5px; margin-top: 8px; margin-bottom: 3px;
+}
+
+.table thead tr th#label_action {
+    max-width: 200px;
+}
+
+.table tr .equal-cols td {
+    width: calc(100% / 4);
+}
+
+.bring-error-icon,
+.bring-success-icon {
+    padding: 3px 10px 3px 0px!important;
+}
+
+.bring-success-icon {
+    display: flex;
+}
+
+.product-level-notice {
+    display: flex;
+}
+
+#scheduled-actions button.active {
+    background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+}
+
+#general-settings-other-information ol, 
+#help-inventory-settings ol, 
+#help-order-settings ol {
+    font-size: 13px;
+}
+
+#general-settings-other-information ol li, 
+#help-inventory-settings ol.ol-main li, 
+#help-order-settings ol.ol-main li {
+    font-weight: bold;
+}
+
+#general-settings-other-information ol li, 
+#help-inventory-settings ol.ol-main li ol li, 
+#help-order-settings ol.ol-main li ol li {
+    font-weight: normal;
+}
+
+#general-settings-other-information ol ol,
+#help-inventory-settings ol ol, 
+#help-order-settings ol ol {
+    list-style-type: lower-latin;
+}
+
+#notify .notice {
+    transition: all 0.3s ease-in-out;
+    background: #f6f7f7;
+    background-image: linear-gradient(to bottom,#FFFFFF,#F9F9F9);
+    border-top-color: #d8d8d8;
+    border-bottom-color: #bdbdbd;
+    border-right-color: #cacaca;
+    position: relative;
+}
+
+.order_status .order-status.status-bri-req-fulfill {
+    background-color: #808080;
+    color: #fff;
+}
+
+.order_status .order-status.status-bri-fulfill-proc {
+    background-color: #B3FFB3;
+    color: #50575e;
+}
+
+.order_status .order-status.status-bri-fulfilled {
+    background-color: #90EE90;
+    color: #50575e;
+}
+
+.order_status .order-status.status-bri-part-fulfill {
+    background-color: #FFC0CB;
+    color: #50575e;
+}
+
+.order_status .order-status.status-bri-shipped {
+    background-color: #7CFC00;
+    color: #50575e;
+}
+
+.order_status .order-status.status-bri-cancelled {
+    background-color: #FF0000;
+    color: #fff;
+}
+
+/** LIGHTBOX MARKUP **/
+.img-help-wrapper img {
+    max-height: 400px;
+}
+
+.help-lightbox {
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+
+    /* Overlay entire screen */
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    /* A bit of padding around image */
+    padding: 5em 1em;
+
+    /* Translucent background */
+    background: rgba(0, 0, 0, 0.7);
+}
+
+/* Unhide the lightbox when it's the target */ 
+.help-lightbox.show {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 500ms;
+}
+
+.help-lightbox .popup {
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    background-color: #fff;
+    padding: 0 20px;
+}
+
+.help-lightbox span {
+    /* Full width and height */
+    display: block;
+    width: 100%;
+    height: 100%;
+
+    /* Size and position background image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.help-lightbox .popup .help-close:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.help-lightbox .popup .help-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+    box-shadow: none;
+    outline: none;
+}
+
+.show_if_variation_manage_stock .form-row:last-child {
+    width: 48%;
+    float: left;
+    clear: both;
+}
+
+#bring-shelfless-inventory-datatables.dataTable, 
+#bring-shelfless-stock-adjustment-datatables.dataTable { 
+    font-size: 13px;
+}
+
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_paginate .paginate_button, 
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0;
+    border: none;
+    background: transparent;
+}
+
+#bring-shelfless-inventory-datatables th input[type="checkbox"] {
+    margin-left: 6px;
+    border-radius: 0;
+}
+
+#bring-shelfless-inventory-datatables .inv-check-is-fulfill,
+#bring-shelfless-inventory-datatables td input[type="checkbox"] {
+    margin-left: 14px; 
+    margin-bottom: 6px; 
+    border-radius: 0;
+}
+
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_filter input, 
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0.5em;
+    display: inline-block;
+    width: auto;
+    border-radius: 0;
+}
+
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_filter, 
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_length, 
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_length select,
+#bring-shelfless-inventory-datatables_info, 
+#bring-shelfless-inventory-datatables_paginate,
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_filter, 
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_length, 
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_length select,
+#bring-shelfless-stock-adjustment-datatables_info, 
+#bring-shelfless-stock-adjustment-datatables_paginate {
+    font-size: 13px;
+}
+
+#bring-shelfless-inventory-datatables_wrapper.dataTables_wrapper .dataTables_length select, 
+#bring-shelfless-stock-adjustment-datatables_wrapper.dataTables_wrapper .dataTables_length select {
+    width: auto;
+    padding: 0 24px 0 8px;
+    border-radius: 0;
+}
+
+#bring-shelfless-inventory-datatables_paginate .page-item .page-link, 
+#bring-shelfless-stock-adjustment-datatables_paginate .page-item .page-link {
+    border-radius: 0;
+}
+
+#bring-shelfless-inventory-datatables_paginate .page-item .page-link:focus, 
+#bring-shelfless-stock-adjustment-datatables_paginate .page-item .page-link:focus {
+    box-shadow: none;
+}
+
+#bring-shelfless-inventory-datatables_processing.dataTables_processing {
+    height: 55px; padding-top: 10px;
+}
+
+#bring-shelfless-inventory-datatables_processing.dataTables_processing.card {
+    display: unset;
+    max-width: unset;
+    border-radius: 0;
+}
+
+#vas_codes_container {
+    margin-top: 12px;
+}
+
+#vas_codes_add_new, 
+.remove-vas-code {
+    color: #000;
+}
+
+#vas_codes_add_new:hover, 
+.remove-vas-code:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+#vas_codes_add_new:focus, 
+.remove-vas-code:focus {
+    box-shadow: none;
+}
+
+.shelfless-mybring-information-header {
+    margin: 1.33em 0 0;
+    clear: both;
+    display: block;
+    padding: 1.33em 0 0;
+}
+
+.bring-setup-wizard .form-table th, 
+.bring-setup-wizard .form-table td {
+    padding: 10px 15px 10px 0;
+}
+
+.bring-setup-wizard .form-table th label{
+    margin: 0;
+    line-height: 1;
+}
+
+.bring-setup-wizard .credentials .form-table tr:nth-child(2) td input, 
+.bring-setup-wizard .credentials .form-table tr:nth-child(3) td input {
+    width: 80%;
+}
+
+.bring-setup-wizard .diagnostics #diagnostics-results-text {
+    font-size: 14px;
+} 
+
+/*** Help pages styles ***/
+#help-user-guide-tab-content .hint-rad,
+#help-faq-tab-content .hint-rad {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 13px;
+    margin-bottom: 15px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.hint-rad svg {
+    margin-right: 10px;
+    flex: 0 0 24px;
+}
+
+#help-user-guide-tab-content .helper-0, 
+#help-faq-tab-content .helper-0 {
+    background-color: rgb(234, 230, 255);
+}
+
+#help-user-guide-tab-content .imp-note,
+#help-faq-tab-content .imp-note {
+    background-color: rgb(222, 235, 255);
+    font-weight: bold;
+}
+
+#help-faq-tab-content .imp-note {
+    font-weight: normal;
+}
+
+#help-user-guide-tab-content .alert-note,
+#help-faq-tab-content .alert-note {
+    background-color: rgb(255, 249, 229);
+}
+
+#help-user-guide-tab-content .sub-head {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#help-user-guide-tab-content .img-help-wrapper img {
+    max-width: 100%;
+}
+
+#help-user-guide-tab-content ul ul > li a {
+    font-size: 13px;
+}
+
+#help-user-guide-tab-content .help-lightbox {
+    position: fixed;
+    z-index: 9999;
+}
+
+#help-user-guide-tab-content ol {
+    padding: 0;
+    counter-reset: item;
+    font-size: 13px;
+    margin-left: 0;
+}
+ 
+#help-user-guide-tab-content ol > li {
+    list-style-type: none;
+    counter-increment: item;
+}
+ 
+#help-user-guide-tab-content ol > li:before {
+    display: inline-block;
+    padding-right: 5px;
+    text-align: right;
+    content: counter(item) ".";
+}
+
+#help-user-guide-tab-content ol.list-bold > li:before {
+    font-weight: bold;
+}
+
+#help-faq-tab-content dl.faq-accordion {
+    margin-bottom: 2.2rem;
+}
+
+#help-faq-tab-content dl.faq-accordion > dd {
+    font-size: 13px;
+    padding-top: .3rem;
+}
+
+#help-faq-tab-content .list-disc {
+    list-style-type: disc;
+    margin-left: 15px;
+}
+
+.faq-menu-contents,
+.faq-sub-menu-contents, 
+.how-to-guide-table-contents, 
+.how-to-guide-submenu-guide-contents {
+    list-style: disc;
+    margin-left: 15px;
+}
+
+.faq-menu-contents li a {
+    font-size: 13px;
+}
+.faq-menu-contents li a,
+.faq-menu-contents li a:visited,
+.faq-menu-contents li a:active {
+    text-decoration: none;
+}
+
+.faq-menu-contents > li, 
+.how-to-guide-table-contents > li {
+    margin-bottom: 5px;
+}
+
+.faq-sub-menu-contents li,
+.how-to-guide-submenu-guide-contents li {
+    margin-bottom: 0;
+}
+
+table.bring-shelfless-schedule-actions tr.equal-cols td {
+    width: calc(100% / 5);
+    white-space: nowrap;
+}
+
+ul.order_notes .note_content ul.sbb-error-comments {
+    list-style-type: disc;
+    margin-left: 15px;
+    word-break: break-word;
+}
+
+ul.order_notes .note_content ul.sbb-error-comments li {
+    padding-left: 0 !important;
+}
+
+#bring-inventory-products form table.form-table tr:nth-child(2) td {
+    margin-left: -200px;
+    float: left;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+ul.faq-menu-contents > li > a {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.bring-row .form-check {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.bring-row .form-check-input {
+    position: absolute;
+    margin-top: 3px;
+    margin-left: -1.25rem;
+}
+
+.bring-row .form-check .form-check-label {
+    font-weight: 600;
+}
+
+.shipping-methods-container .card {
+    padding: 0;
+    margin: 0 0 15px 0;
+    border: 1px solid rgba(107,167,61,0.5);
+}
+
+.shipping-methods-container .card-header {
+    padding: 0.5rem 0.75rem;
+    background: rgb(123,193,68);
+    background: linear-gradient(90deg, rgba(123,193,68,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.shipping-methods-container .card-header h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.shipping-methods-container .price .form-group {
+    margin-bottom: 14px;
+}
+
+.shipping-methods-container .price .col-form-label {
+    font-size: 14px;
+    padding-bottom: 0;
+    font-weight: 600;
+}
+
+.shipping-methods-container .price .form-control-sm {
+    font-size: 14px;
+}
+
+.shipping-methods-container .addons {
+    line-height: 1;
+}
+
+.shipping-methods-container .addons small, .heading-title {
+    font-size: 14px;
+}
+
+.heading-title {
+    font-weight: 600;
+}
+
+#bring-shipping-deliveries form table.form-table tr:nth-child(2) td {
+    margin-left: -200px;
+    float: left;
+    margin-bottom: 0;
+    padding: 0;
+    font-weight: 600;
+}
+
+#bring-shipping-deliveries form table.form-table tr:nth-child(3) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(3) td,
+#bring-shipping-deliveries form table.form-table tr:nth-child(4) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(4) td,
+#bring-shipping-deliveries form table.form-table tr:nth-child(5) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(5) td,
+#bring-shipping-deliveries form table.form-table tr:nth-child(6) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(6) td,
+#bring-shipping-deliveries form table.form-table tr:nth-child(7) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(7) td {
+    padding-bottom: 0;
+}
+
+#bring-shipping-deliveries form table.form-table tr:nth-child(8) th,
+#bring-shipping-deliveries form table.form-table tr:nth-child(8) td {
+    padding-top: 5px;
+}
+
+.shipping-methods-container .card-deck {
+    margin: unset;
+}
+
+.card-body .details .form-control {
+    max-height: 30px;
+    font-size: 14px;
+}
+
+.card-body .details .custom-control-label {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.card-body .details .custom-switch {
+    padding-left: 2.75rem;
+}
+
+.card-body .details small {
+    font-size: 13px;
+}
+
+.card-body .addons .addons-heading {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.custom-control-label.is_price:before,
+.custom-control-label.is_price:after,
+.custom-control-label.is_title:before,
+.custom-control-label.is_title:after {
+    display: none;
+}
+
+
+ul.how-to-guide-table-contents > li > a {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#bring-shipping-deliveries .accordion .card-header .btn-link {
+    text-decoration: none;
+    color: #212529;
+}
+
+#bring-shipping-deliveries .accordion .card-header .btn-link span {
+    line-height: 35px;
+}
+
+#bring-shipping-deliveries .accordion .card-header .btn-link:focus {
+    box-shadow: none;
+}
+
+.card-body .addons .select2-container, 
+.card-body .addons .select2-container--default .select2-selection--multiple {
+    width: 100%!important;
+} 
+
+.card-body .addons .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    margin-bottom: 0;
+    line-height: 24px;
+    background-color: rgba(123, 193, 68, 0.7);
+    font-weight: normal;
+}
+
+.card-body .addons .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    padding: 0 5px 2px 5px;
+    margin-top: -1px;
+}
+
+.card-body .addons .select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.card-body .addons .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #376810;
+}
+
+.select2-results .select2-results__options {
+    font-size: 14px;
+}
+
+.card-body .details .custom-control-label.is_title, 
+.card-body .details .custom-control-label.is_price {
+    margin-left: -2.3rem;
+}
+
+.custom-control-input.title-toggle, 
+.custom-control-input.price-toggle {
+    display: none;
+}
+
+.custom-control .is_title, 
+.custom-control .is_price {
+    cursor: default;
+}
+
+<<<<<<< HEAD
+ol li > ul, 
+=======
+ol li > ul {
+    counter-reset: listStyle;
+}
+
+ol li > ul li {
+    margin-left: 1em;
+    counter-increment: listStyle;
+}
+
+>>>>>>> development
+.shipping-methods-container ul {
+    margin-left: 1rem;
+}
+
+.shipping-methods-container ul li {
+<<<<<<< HEAD
+    list-style-type: disc;
+    margin-left: 1rem;
+=======
+    margin-left: 1em;
+    list-style-type: disc;
+}
+
+.shipping-methods-container ul li p {
+    margin-bottom: 0;
+>>>>>>> development
+}

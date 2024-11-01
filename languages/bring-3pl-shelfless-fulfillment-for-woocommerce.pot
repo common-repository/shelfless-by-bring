@@ -1,0 +1,3157 @@
+# Copyright (C) 2022 Bring
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shelfless by Bring 1.3.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/bring-3pl-shelfless-fulfillment-for-"
+"woocommerce\n"
+"POT-Creation-Date: 2022-11-17 08:00:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Harvey Entendez Diaz <h.diaz@arcanys.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2905
+msgid "5"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4394
+msgid "1091"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4378
+msgid "3584"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-help.php:32
+msgid "FAQ"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-help.php:35
+msgid "User Guide"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-inventory-settings.php:31
+#: admin/views/bring-3pl-help-inventory-settings.php:6
+#: admin/views/bring-3pl-help-user-guide-tab.php:43
+#: admin/views/bring-3pl-help-user-guide-tab.php:390
+msgid "Stocks"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-inventory-settings.php:34
+#: admin/views/bring-3pl-help-inventory-settings.php:88
+#: admin/views/bring-3pl-help-user-guide-tab.php:44
+#: admin/views/bring-3pl-help-user-guide-tab.php:414
+msgid "Products"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-inventory-settings.php:37
+#: admin/views/bring-3pl-help-user-guide-tab.php:45
+#: admin/views/bring-3pl-help-user-guide-tab.php:469
+msgid "Fulfill & Sync"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-order-settings.php:29
+#: admin/views/bring-3pl-help-order-settings.php:6
+#: admin/views/bring-3pl-help-user-guide-tab.php:49
+#: admin/views/bring-3pl-help-user-guide-tab.php:51
+#: admin/views/bring-3pl-help-user-guide-tab.php:496
+#: admin/views/bring-3pl-help-user-guide-tab.php:500
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:142
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:143
+msgid "Orders"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-order-settings.php:32
+#: admin/views/bring-3pl-help-order-settings.php:78
+#: admin/views/bring-3pl-help-user-guide-tab.php:52
+#: admin/views/bring-3pl-help-user-guide-tab.php:572
+#: admin/views/bring-3pl-help-user-guide-tab.php:819
+msgid "Status Mappings"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-reports.php:31
+msgid "Stock Movements"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:21
+msgid "Setup Wizard"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:34
+#: admin/views/bring-3pl-help-general-settings-other-information.php:5
+#: admin/views/bring-3pl-help-user-guide-tab.php:23
+#: admin/views/bring-3pl-help-user-guide-tab.php:32
+#: admin/views/bring-3pl-help-user-guide-tab.php:195
+#: admin/views/bring-3pl-help-user-guide-tab.php:266
+#: admin/views/bring-3pl-help-user-guide-tab.php:802
+msgid "API Credentials"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:35
+#: admin/views/bring-3pl-help-user-guide-tab.php:24
+#: admin/views/bring-3pl-help-user-guide-tab.php:41
+#: admin/views/bring-3pl-help-user-guide-tab.php:210
+#: admin/views/bring-3pl-help-user-guide-tab.php:384
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:133
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:134
+msgid "Products & Stocks"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:36
+#: admin/views/bring-3pl-admin-shelfless-api-settings.php:32
+#: admin/views/bring-3pl-help-general-settings-other-information.php:87
+#: admin/views/bring-3pl-help-user-guide-tab.php:25
+#: admin/views/bring-3pl-help-user-guide-tab.php:35
+#: admin/views/bring-3pl-help-user-guide-tab.php:226
+#: admin/views/bring-3pl-help-user-guide-tab.php:322
+#: admin/views/bring-3pl-help-user-guide-tab.php:815
+msgid "Scheduled Actions"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:37
+#: admin/views/bring-3pl-help-faq-tab.php:33
+#: admin/views/bring-3pl-help-faq-tab.php:124
+#: admin/views/bring-3pl-help-user-guide-tab.php:26
+#: admin/views/bring-3pl-help-user-guide-tab.php:56
+#: admin/views/bring-3pl-help-user-guide-tab.php:243
+#: admin/views/bring-3pl-help-user-guide-tab.php:622
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:151
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:152
+msgid "Shipping"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:55
+#: admin/views/bring-3pl-admin-setup-wizard.php:70
+#: admin/views/bring-3pl-admin-setup-wizard.php:85
+msgid "Next"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-setup-wizard.php:69
+#: admin/views/bring-3pl-admin-setup-wizard.php:84
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:196
+msgid "Previous"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shelfless-api-settings.php:29
+msgid "Shelfless API"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shelfless-api-settings.php:35
+#: admin/views/bring-3pl-help-user-guide-tab.php:36
+#: admin/views/bring-3pl-help-user-guide-tab.php:351
+#: admin/views/bring-3pl-help-user-guide-tab.php:806
+msgid "Dream Logistics"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shelfless-api-settings.php:38
+msgid "Mybring API for Bring Shipping"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shipping-settings.php:31
+#: admin/views/bring-3pl-help-order-settings.php:129
+#: admin/views/bring-3pl-help-user-guide-tab.php:58
+#: admin/views/bring-3pl-help-user-guide-tab.php:626
+#: admin/views/bring-3pl-help-user-guide-tab.php:818
+msgid "Shipping Mappings"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shipping-settings.php:34
+#: admin/views/bring-3pl-help-user-guide-tab.php:59
+#: admin/views/bring-3pl-help-user-guide-tab.php:642
+msgid "Fallback Carriers"
+msgstr ""
+
+#: admin/views/bring-3pl-admin-shipping-settings.php:37
+#: admin/views/bring-3pl-help-user-guide-tab.php:61
+#: admin/views/bring-3pl-help-user-guide-tab.php:660
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-delivery.php:66
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-delivery.php:73
+msgid "Shelfless Delivery"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:3
+msgid "FAQ - Shelfless for WooCommerce"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:6
+msgid ""
+"This will help and answer the user's frequently asked questions regarding "
+"the plugin."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:11
+#: admin/views/bring-3pl-help-faq-tab.php:61
+msgid "Getting started with Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:13
+#: admin/views/bring-3pl-help-faq-tab.php:63
+msgid "Does the Shelfless plugin require the WooCommerce plugin?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:14
+#: admin/views/bring-3pl-help-faq-tab.php:66
+msgid ""
+"What are other technical requirements needed to install and use the "
+"Shelfless for WooCommerce?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:18
+#: admin/views/bring-3pl-help-faq-tab.php:80
+msgid "Fulfillment"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:20
+#: admin/views/bring-3pl-help-faq-tab.php:82
+msgid "Why aren't the sales orders fulfilled automatically?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:24
+#: admin/views/bring-3pl-help-faq-tab.php:86
+msgid "Article Synchronization"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:26
+#: admin/views/bring-3pl-help-faq-tab.php:88
+msgid ""
+"How can I automatically synchronize creation and update of products from my "
+"platform to Shelfless?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:27
+#: admin/views/bring-3pl-help-faq-tab.php:108
+msgid "How will I know the number of products I have on Shelfless?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:28
+#: admin/views/bring-3pl-help-faq-tab.php:113
+msgid "The product is not syncing with Shelfless systems?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:29
+#: admin/views/bring-3pl-help-faq-tab.php:118
+msgid ""
+"I want to sync a new product to Shelfless warehouse but I don't what it to "
+"be published in my store – how do I do?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:35
+#: admin/views/bring-3pl-help-faq-tab.php:126
+msgid "How do I enable shipping with Shelfless for WooCommerce?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:36
+#: admin/views/bring-3pl-help-faq-tab.php:130
+msgid ""
+"How can I map my current shipping methods shown to customers at checkout to "
+"what is approved in my Shelfless contract?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:37
+#: admin/views/bring-3pl-help-faq-tab.php:134
+msgid ""
+"How can I map which order statuses I need for Shelfless to start fulfilling "
+"at the warehouse?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:38
+#: admin/views/bring-3pl-help-faq-tab.php:138
+msgid "How to setup Shelfless Delivery?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:39
+#: admin/views/bring-3pl-help-faq-tab.php:144
+msgid "How to add and enable Shelfless Delivery?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:43
+#: admin/views/bring-3pl-help-faq-tab.php:151
+msgid "Out-of-Stock Products"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:45
+#: admin/views/bring-3pl-help-faq-tab.php:153
+msgid "Will I be notified if a product is out of stock at the Shelfless warehouse?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:46
+#: admin/views/bring-3pl-help-faq-tab.php:158
+msgid "How to enable the notifications for out-of-stock products?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:47
+#: admin/views/bring-3pl-help-faq-tab.php:163
+msgid "Does Shelfless support partial deliveries due to out-of-stock products?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:51
+#: admin/views/bring-3pl-help-faq-tab.php:176
+msgid "Backorder Workflows"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:53
+#: admin/views/bring-3pl-help-faq-tab.php:178
+msgid "What is the process flow of orders marked as \"Backordered at Shelfless\"?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:54
+#: admin/views/bring-3pl-help-faq-tab.php:183
+msgid ""
+"I see a \"Backordered by Shelfless\" status on my orders. What does that "
+"mean?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:55
+#: admin/views/bring-3pl-help-faq-tab.php:195
+msgid "Can I cancel an order that is marked \"Backordered by Shelfless\"?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:64
+msgid ""
+"Yes, the Shelfless plugin extends the WooCommerce functionalities on "
+"Wordpress, thus you need to have WooCommerce installed, activated and set "
+"up properly before you can use Shelfless for WooCommerce."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:68
+msgid ""
+"Below are the minimum system requirements needed by Shelfless for "
+"WooCommerce:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:70
+msgid "Wordpress 5.x onwards"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:71
+msgid "WooCommerce 5.x onwards"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:72
+msgid ""
+"PHP 7.4 and above (may be used with PHP 8.x dependent on its compatibility "
+"of Wordpress)"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:73
+msgid "Support for TLS 1.2 and above"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:74
+msgid "Any modern browser"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:76
+msgid ""
+"Additionally, the Shelfless for WooCommerce plugin has been tested to work "
+"with PHP 8.0.x."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:83
+msgid ""
+"In general, for Shelfless to automatically fulfill the orders, the products "
+"must be enabled to be fulfilled. Go to <strong>Shelfless -> Products & "
+"Stocks -> Fulfill & Sync</strong> tab, under <strong>Fulfill "
+"column</strong>, then select/enable the checkbox of the products you want "
+"to be fulfilled by Bring. This checkbox can also be seen on the product "
+"page under the tab Inventory. In product level, go to <strong>Products -> "
+"Select and Edit Product -> Inventory</strong> tab -> check/enable the "
+"<strong>Enable Fulfillment with Shelfless</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:90
+msgid ""
+"In general, for Shelfless to automatically sync the articles, the products "
+"must be enabled to be sync'ed. Go to <strong>Shelfless -> Inventory "
+"Settings -> Stocks</strong> tab, select/enable the checkbox for "
+"<strong>Synchronize Products</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:91
+msgid ""
+"Also, go to <strong>Shelfless -> Products & Stocks -> Fulfill & "
+"Sync</strong> tab, under <strong>Sync column</strong>, select/enable the "
+"checkbox."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:92
+msgid ""
+"In product level, go to <strong>Products -> Select and Edit Product -> "
+"Inventory</strong> tab -> check/enable the <strong>Enable Article Sync with "
+"Shelfless</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:96
+msgid ""
+"Though it was mentioned here that articles can be synchronized with "
+"Shelfless automatically, the mechanism behind it involves cron actions "
+"(called Action Scheduler on WooCommerce). Depending on how the heartbeat "
+"cron is set up on the server where your storefront is hosted, it may take "
+"some time (usually 30 minutes to an hour) for products to be fully "
+"synchronized."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:100
+msgid ""
+"For updates, only product name and product description may be pushed and "
+"synchronized to Shelfless."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:104
+msgid ""
+"When you create a product, some information may or may not be shown and "
+"synchronized on Shelfless. Examples of information are dimensions and "
+"weights, as these are to be measured at the warehouse using precision "
+"instruments. The actual dimensions and weight measured at the warehouse "
+"will always prevail and will be used in shipping."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:110
+msgid ""
+"You may log in to your Shelfless portal account to check the current "
+"products (called Articles in Shelfless portal). You may also check the "
+"products found by the Shelfless for WooCommerce plugin under the "
+"<strong>Shelfless -> Products & Stocks -> Fulfill & Sync</strong> tab. "
+"There should be a column shown in the grid named \"Shelfless\" with two "
+"possible values: \"Found\" and \"Not Found\"."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:115
+msgid ""
+"Make sure you have published the article. If the article is published but "
+"still not syncing (e.g. you don't see it in the portal) contact customer "
+"service."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:120
+msgid ""
+"For a product to be synced from your store to Shelfless warehouse it needs "
+"to be published. Sometimes though you like to syncronize the product before "
+"you start to sell it so Shelfless can receive it at the warehouse. Instead "
+"of publishing it in your store, you create the product in the Shelfless "
+"portal to syncronize with the Shelfless' warehouse management system (WMS). "
+"It will not be syncronized with your store. It is important that the "
+"product in the portal and your store looks the same so it is not "
+"conflicting later when you publish the version in your store."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:128
+msgid ""
+"Go to <strong>Products -> Select and Edit Product -> Shipping</strong> tab "
+"-> check/enable the <strong>Ship with Shelfless</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:132
+msgid ""
+"You can set flat rates and free shipping methods to map to specific "
+"shipping methods and carriers approved in your contract by going to "
+"<strong>Shelfless -> Shipping -> Shipping Mappings</strong> tab."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:136
+msgid ""
+"Go to <strong>Shelfless -> Orders -> Status Mappings</strong> tab. On this "
+"page, you can also set which order statuses you want the "
+"fulfilled/processed/ship orders to be set to once Shelfless has started "
+"processing your fulfillment."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:140
+msgid ""
+"Go to <strong>Shelfless -> Shipping -> Shipping Delivery</strong> tab. By "
+"using Shelfless Delivery, your customers will be able to choose Bring "
+"shipping services on checkout. Make sure you <strong>add and enable "
+"Shelfless Delivery</strong> as a shipping method on your WooCommerce "
+"shipping zones."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:141
+#: admin/views/bring-3pl-help-faq-tab.php:147
+msgid "For more detailed view, you may refer to %s section of the user guide tab."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:146
+msgid ""
+"Go to <strong>WooCommerce -> Shipping -> Shipping zones</strong> tab. Click "
+"on a specific zone, and under <strong>Shipping method</strong> section, "
+"click on <strong>Add shipping method</strong> and manually select "
+"<strong>Shelfless Delivery</strong> method from the dropdown and then hit "
+"<strong>Add shipping method</strong> button save the changes."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:155
+msgid ""
+"You can opt to see Wordpress notifications on your administrative dashboard "
+"if one or more products are out of stock at the warehouse. A notice will be "
+"shown on top of the page. However, this will only show if you enable "
+"notifications if products are seen by Shelfless to be out of stock."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:160
+msgid ""
+"Go to <strong>Shelfless -> Products & Stocks -> Stocks</strong> tab, enable "
+"the checkbox for \"Show Admin Notification If a Product is Out of Stock\"."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:165
+msgid ""
+"No. If one or more products is out of stock, the whole order will wait "
+"until the affected product is restocked at the warehouse. If you don't want "
+"to wait, you can remove the product from the affected order with an "
+"out-of-stock product and then the order will be fulfilled in the next "
+"transmission of update."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:171
+msgid ""
+"Orders with out-of-stock products may not be transmitted to the Shelfless "
+"warehouse and may not be visible to Shelfless portal, but instead held on "
+"to the Shelfless Order Control System. You can easily identify if this is "
+"the case because affected orders will be moved to a separate status called "
+"\"Backordered on Shelfless.\""
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:180
+msgid ""
+"This is the situation when the stock is insufficient at the warehouse for "
+"one or more products in an order, therefore, it cannot be fulfilled at the "
+"current time. The affected order will have its status changed to "
+"\"Backordered on Shelfless\" as a result. However, the order will be "
+"fulfilled automatically once the stocks are available at the warehouse."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:185
+msgid ""
+"A \"Backordered on Shelfless\" status means that the warehouse does not "
+"have enough stocks to fulfill one or more items in the order at the moment, "
+"and the order is temporarily put on hold until stocks have been replenished "
+"in the warehouse. Currently, Shelfless does not ship orders partially, and "
+"so the entire order will be affected. Once stocks have been updated and "
+"there are enough to fulfill the order, it will be automatically processed "
+"without further actions from the merchant. Corresponding movements of the "
+"order will be recorded by the Shelfless plugin on the Order Notes section "
+"of the Order Details page."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:191
+msgid ""
+"Backordered orders may not be transmitted to the Shelfless warehouse and "
+"may not be visible to Shelfless portal, but instead held on to the "
+"Shelfless Order Control System. It will move to other statuses once actions "
+"are being effected into the order, like when there is enough stock to "
+"finally fulfill the order."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:197
+msgid ""
+"Yes, you can. Move the order to a status that triggers a Shelfless "
+"cancellation and the plugin will send a cancellation request on your "
+"behalf. There will be a corresponding note added to the Order Notes section "
+"of the Order Details page."
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:202
+msgid ""
+"As a rule: only orders having the current statuses below can be requested "
+"for cancellation or update (like adding or removing items in an order):"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:204
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3148
+msgid "Fulfillment Processed by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-faq-tab.php:205
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3149
+msgid "Backordered on Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:3
+msgid ""
+"This is where the user sets up the API Credentials, Tests the connection in "
+"the Diagnostics tab, and Scheduled Actions when the configuration was "
+"skipped during the installation wizard phase."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:6
+msgid ""
+"This is where you are able to set up and store the information provided by "
+"Mybring after the Shelfless by Bring plugin was installed and activated."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:21
+msgid ""
+"The following information can be obtained from Mybring portal provided by "
+"the Bring account:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:23
+msgid "Mybring Customer ID, unique customer identification number"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:24
+#: admin/views/bring-3pl-help-user-guide-tab.php:285
+msgid "API Key, should be partnered with a Shelfless API Secret Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:25
+#: admin/views/bring-3pl-help-user-guide-tab.php:286
+msgid "Secret Key, should be partnered with a Shelfless API Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:26
+#: admin/views/bring-3pl-help-user-guide-tab.php:287
+#: admin/views/bring-3pl-help-user-guide-tab.php:810
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:321
+msgid "Mode"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:28
+msgid ""
+"can be set to Development/Staging wherein the development/testing is in "
+"progress"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:29
+msgid "must be set to Live when the plugin is ready for production"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:32
+msgid "Debug Mode, Defaut is No"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:37
+#: admin/views/bring-3pl-help-user-guide-tab.php:33
+#: admin/views/bring-3pl-help-user-guide-tab.php:300
+msgid "Diagnostics"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:38
+msgid ""
+"This is to test the connection between Bring 3PL Shelfless and Bring using "
+"the API Credentials set from the API Credentials tab."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:53
+msgid ""
+"Click the Run Test button in order to successfully test the connection "
+"between Bring 3PL Shelfless and Bring using the API Credentials set from "
+"the previous tab."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:55
+msgid "Successful connection result:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:70
+msgid "Failed connection result:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:88
+msgid ""
+"This might be set up during the installation wizard phase, wherein the user "
+"sets up/manages the scheduled actions like Fetch Inventory updates, Fulfill "
+"Orders, Fetch Order Updates and Send In-store Order Updates in terms of "
+"Hourly, Daily, Weekly schedules and Cron-style commands in Custom field."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:89
+#: admin/views/bring-3pl-help-user-guide-tab.php:245
+#: admin/views/bring-3pl-help-user-guide-tab.php:324
+msgid ""
+"These actions happen in the background and will keep all relevant data up "
+"to date."
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:105
+msgid ""
+"Set of actions to perform, like Fetch Inventory Updates, Fulfill Orders, "
+"Fetch Order Updates and Send In-store Order Updates"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:106
+msgid "Schedule of when the action will be performed"
+msgstr ""
+
+#: admin/views/bring-3pl-help-general-settings-other-information.php:108
+msgid ""
+"Schedule the action for a certain specific time, e.g., cron-style command, "
+"like:%s %s"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:4
+msgid ""
+"This is where the user sets up the Stocks that will override the "
+"WooCommerce Manage Stocks settings, Products to fulfill by Shelfless."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:7
+#: admin/views/bring-3pl-help-user-guide-tab.php:391
+msgid ""
+"This tab serves as the options to override the WooCommerce Manage Stock "
+"settings."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:23
+#: admin/views/bring-3pl-help-user-guide-tab.php:406
+msgid "Manage Stock"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:25
+#: admin/views/bring-3pl-help-inventory-settings.php:31
+#: admin/views/bring-3pl-help-inventory-settings.php:37
+#: admin/views/bring-3pl-help-inventory-settings.php:67
+#: admin/views/bring-3pl-help-user-guide-tab.php:408
+#: admin/views/bring-3pl-help-user-guide-tab.php:450
+msgid "Default: yes"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:26
+#: admin/views/bring-3pl-help-user-guide-tab.php:410
+msgid ""
+"If it is not enabled in WooCommerce, this will allow Shelfless to control "
+"and enable it. In order for Bring to update stocks in the inventory, this "
+"option must be enabled in WooCommerce global settings and in each product."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:29
+msgid "Show Admin Notifications if Product is Out of Stock"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:32
+msgid "When stock is below 1, Selfless by Bring invokes a notification."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:35
+msgid "Show Admin Notifications if Product Stock is Low"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:38
+msgid "When stock is below the low threshold, Shelfless invokes a notification."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:41
+msgid "Use WooCommerce Low Stock Threshold Value"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:43
+#: admin/views/bring-3pl-help-inventory-settings.php:55
+#: admin/views/bring-3pl-help-order-settings.php:31
+#: admin/views/bring-3pl-help-order-settings.php:37
+#: admin/views/bring-3pl-help-order-settings.php:43
+#: admin/views/bring-3pl-help-order-settings.php:57
+#: admin/views/bring-3pl-help-user-guide-tab.php:432
+#: admin/views/bring-3pl-help-user-guide-tab.php:438
+#: admin/views/bring-3pl-help-user-guide-tab.php:529
+#: admin/views/bring-3pl-help-user-guide-tab.php:541
+#: admin/views/bring-3pl-help-user-guide-tab.php:547
+msgid "Default: no"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:44
+msgid "Use the WooCommerce Inventory settings value for the Low Sock Threshold."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:47
+msgid "Low Stock Threshold"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:49
+msgid "Default: 5"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:50
+msgid ""
+"If no Low stock threshold is set in the WooCommerce inventory setting, or "
+"if the User WooCommerce Low Stock Threshold Value field above is not "
+"enabled, use this value."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:53
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4212
+msgid "Add Customs fields"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:56
+#: admin/views/bring-3pl-help-user-guide-tab.php:440
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"International orders wherein the seller has the option to include Customs "
+"information in the inventory."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:59
+#: admin/views/bring-3pl-help-user-guide-tab.php:442
+msgid "Default Country of Origin"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:61
+#: admin/views/bring-3pl-help-user-guide-tab.php:444
+msgid "Default: CN-China"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:62
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to set the default "
+"Country of Origin for an item has not been set with it. This will not be "
+"used if the field is not checked."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:65
+#: admin/views/bring-3pl-help-user-guide-tab.php:448
+msgid "Use Cost Price Field"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:68
+#: admin/views/bring-3pl-help-user-guide-tab.php:452
+msgid ""
+"This field is usually utilized for Custom Commercial Invoices for "
+"International orders wherein the seller has the option to use cost price as "
+"the declared price value for the item."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:71
+#: admin/views/bring-3pl-help-user-guide-tab.php:454
+msgid "Cost Price Currency"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:73
+#: admin/views/bring-3pl-help-user-guide-tab.php:456
+msgid "Default: Global WooCommerce Currency"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:74
+#: admin/views/bring-3pl-help-user-guide-tab.php:458
+msgid ""
+"This field is used for Custom Commercial Invoices for International orders "
+"wherein the seller has the option to use cost price as the declared price "
+"value for the item."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:77
+#: admin/views/bring-3pl-help-user-guide-tab.php:460
+msgid "Basic Inventory Unit"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:79
+msgid "Default: pcs"
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:80
+#: admin/views/bring-3pl-help-user-guide-tab.php:464
+msgid "Determines the basic inventory unit when counting quantities."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:89
+msgid ""
+"This is where the user will be able to select all products, select one or "
+"more products that Shelfless will fulfill."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:104
+#: admin/views/bring-3pl-help-user-guide-tab.php:486
+msgid "Select All products that Shelfless will fulfill."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:105
+#: admin/views/bring-3pl-help-user-guide-tab.php:488
+msgid "Select one or more products that Shelfless will fulfill."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:106
+msgid "Navigate to a specific page."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:107
+msgid "Number of products to show in the list."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:108
+msgid "Go to the next or previous page of the products list."
+msgstr ""
+
+#: admin/views/bring-3pl-help-inventory-settings.php:109
+#: admin/views/bring-3pl-help-user-guide-tab.php:490
+msgid ""
+"Click the refresh button whenever you want to verify the changes made or "
+"just refresh the product list."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:4
+#: admin/views/bring-3pl-help-user-guide-tab.php:497
+msgid ""
+"This section gives the user the options to set up/manage Orders and "
+"relevant notifications and Status Mappings."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:7
+msgid "The user will set up/manage the Orders and its corresponding notifications."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:23
+msgid "Include Orders in the Last Number of Days for Processing"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:25
+#: admin/views/bring-3pl-help-user-guide-tab.php:517
+msgid "Default: 2, for two days backward from now"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:26
+#: admin/views/bring-3pl-help-user-guide-tab.php:519
+msgid ""
+"Enter a number for days for which Shelfless will compute the date range for "
+"fulfillment processing. Orders older than this value will not be included. "
+"Modified orders that fall within the range will also be attempted for "
+"re-processing."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:29
+msgid "Process International Orders (Exports)"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:32
+#: admin/views/bring-3pl-help-user-guide-tab.php:525
+msgid ""
+"Let Shelfless process and ship international orders (orders exported from "
+"default country set in Woocommerce settings). Exporting should have a "
+"corresponding agreement with Bring."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:35
+msgid "Use Shelfless Custom Statuses"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:38
+#: admin/views/bring-3pl-help-user-guide-tab.php:531
+msgid ""
+"By adding custom status, you have the control which orders are to be "
+"fulfilled by Shelfless (in addition to mapping statuses which will be "
+"processed by Bring)."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:41
+msgid "Select Custom Statuses"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:44
+#: admin/views/bring-3pl-help-user-guide-tab.php:537
+msgid ""
+"Custom statuses to select, you have the control which orders are to be "
+"fulfilled by Shelfless (in addition to mapping statuses which will be "
+"processed by Bring)."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:55
+msgid "Show Admin Notifications if an Order is Cancelled from Warehouse"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:58
+#: admin/views/bring-3pl-help-user-guide-tab.php:549
+msgid ""
+"When an order was cancelled from within the warehouse for various reasons, "
+"let Shelfless notify the user so the user can check the orders and statuses."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:61
+#: admin/views/bring-3pl-help-user-guide-tab.php:551
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4364
+msgid "Fallback Carrier"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:63
+#: admin/views/bring-3pl-help-user-guide-tab.php:553
+msgid "Default: BPN, for flat rates"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:64
+#: admin/views/bring-3pl-help-user-guide-tab.php:555
+msgid "Enter a fallback carrier if it cannot be detected in the system."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:67
+#: admin/views/bring-3pl-help-user-guide-tab.php:557
+msgid "Fallback Service Code"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:69
+#: admin/views/bring-3pl-help-user-guide-tab.php:559
+msgid "Default: 5600, 5800, 4850 – For bring, example services"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:70
+#: admin/views/bring-3pl-help-user-guide-tab.php:561
+msgid "Enter a fallback service code if the service cannot be determined."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:79
+#: admin/views/bring-3pl-help-user-guide-tab.php:573
+msgid ""
+"This tab will let the user set up/manage the order statuses provided by "
+"Shelfless, this is possible when Manage Status is enabled."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:93
+#: admin/views/bring-3pl-help-user-guide-tab.php:588
+msgid "WooCommerce Order Status to Start Fulfilling an Order"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:95
+#: admin/views/bring-3pl-help-order-settings.php:107
+#: admin/views/bring-3pl-help-user-guide-tab.php:590
+#: admin/views/bring-3pl-help-user-guide-tab.php:602
+msgid "Default: Processing"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:96
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to fulfill an "
+"order."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:99
+#: admin/views/bring-3pl-help-user-guide-tab.php:594
+msgid "WooCommerce Order Status to Cancel A Fulfillment"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:101
+#: admin/views/bring-3pl-help-order-settings.php:120
+#: admin/views/bring-3pl-help-user-guide-tab.php:596
+#: admin/views/bring-3pl-help-user-guide-tab.php:614
+msgid "Default: Cancelled"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:102
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to cancel an "
+"order."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:105
+msgid "Order Status to Move to When an Order is Partially Fulfilled by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:108
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless cannot "
+"fully fulfill an order, and only shipped partial of it.\n"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:112
+#: admin/views/bring-3pl-help-user-guide-tab.php:606
+msgid ""
+"Order Status to Move to When a Tracking Number Has Been Created and Order "
+"is Shipped by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:114
+#: admin/views/bring-3pl-help-user-guide-tab.php:608
+msgid "Default: Completed"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:115
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless has "
+"generated a tracking number and the order has been marked shipped at the "
+"warehouse."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:118
+#: admin/views/bring-3pl-help-user-guide-tab.php:612
+msgid "Order Status to Move to When an Order is Marked Cancelled by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:121
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless receives "
+"notification that an order was cancelled from the warehouse."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:130
+msgid ""
+"This tab will let the user select/choose for the existing flat-rate-based "
+"shipping method."
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:144
+msgid "Flat Rate"
+msgstr ""
+
+#: admin/views/bring-3pl-help-order-settings.php:144
+msgid "Options"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:4
+msgid "How To Guide"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:7
+msgid ""
+"This will guide the user on how the <strong>Shelfless by Bring</strong> "
+"plugin works, its dependency, installation and activation process."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:12
+msgid "Getting started"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:14
+msgid "Upload plugin via WordPress search"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:15
+msgid "Activate plugin"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:16
+msgid "Manually upload plugin"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:17
+msgid "Shelfless plugin is installed but WooCommerce is not"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:21
+msgid "Installation wizard"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:30
+#: admin/views/bring-3pl-help-user-guide-tab.php:261
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:161
+msgid "General"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:34
+#: admin/views/bring-3pl-help-user-guide-tab.php:306
+msgid "Deleting Transients"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:37
+#: admin/views/bring-3pl-help-user-guide-tab.php:367
+msgid "Shelfless portal API for Bring Shipping"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:63
+#: admin/views/bring-3pl-help-user-guide-tab.php:665
+msgid "What do I need to do before getting started with Shelfless Delivery?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:64
+#: admin/views/bring-3pl-help-user-guide-tab.php:669
+msgid "How to get started with Shelfless delivery?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:65
+msgid "Enable Shelfless Delivery in WooCommerce Shipping Settings"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:71
+#: admin/views/bring-3pl-help-user-guide-tab.php:801
+msgid "Glossary"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:79
+msgid "Important Note"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:83
+msgid ""
+"In order for the <strong>Shelfless by Bring</strong> plugin to work, the "
+"<strong>WooCommerce</strong> plugin must be installed in the "
+"<strong>Plugins</strong> in the left sidebar menu."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:84
+msgid ""
+"To install it, in the left sidebar menu and click <strong>Add New</strong> "
+"and you will be redirected to the Add Plugins page."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:85
+msgid "For <strong>WooCommerce</strong> plugin:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:86
+msgid "Type WooCommerce in the search bar, see screenshot below:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:101
+msgid "Look for the WooCommerce plugin and click <strong>Activate</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:115
+msgid ""
+"Once the WooCommerce plugin is <strong>activated</strong>, see screenshot "
+"below:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:130
+msgid "For <strong>Shelfless by Bring</strong> plugin:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:131
+msgid ""
+"Click <strong>Upload Plugin</strong>, and then browse for the plugin to "
+"upload."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:145
+msgid ""
+"Once the upload is successful, navigate to the <strong>Plugins</strong> and "
+"look for <strong>Shelfless by Bring</strong> to activate the plugin."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:159
+msgid ""
+"Once the <strong>Shelfless by Bring</strong> is <strong>activated</strong>, "
+"see screenshot below for expected result:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:174
+msgid ""
+"If <strong>WooCommerce</strong> is not installed and <strong>Shelfless by "
+"Bring</strong> is installed, a notice will appear, see screenshot below:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:190
+msgid "Installation Wizard"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:192
+msgid ""
+"On installation wizard phase, this is where the user will have to set up "
+"<strong>API Credentials, Product Sync, Scheduled Actions and "
+"Shipping</strong> and then review the settings. You also have the option to "
+"skip the configuration and wizard and set it up later in the "
+"<strong>General</strong> section."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:196
+msgid ""
+"On setting up wizard phase, this is where the user will be able to setup "
+"API Credentials, run diagnostics connection and enter Dream Logistics "
+"details."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:211
+msgid ""
+"On setting up wizard phase, this is where the user will be able to manage "
+"stock and synchronize products with Shelfless."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:227
+msgid ""
+"On setting up wizard phase, this is where the user sets up/manages the "
+"scheduled actions like <i>Fetch available stock levels from Shelfless to "
+"WooCommerce, Fulfill orders, Fetch order updates from Shelfless to "
+"WooCommerce</i> in terms of Hourly, Daily, Weekly schedules."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:228
+msgid "Learn more about scheduled actions User Guide > General > %s."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:244
+msgid ""
+"On the setup wizard phase, this is where the user mapped the shipping "
+"methods added from WooCommerce."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:264
+msgid ""
+"This is where the user sets up the API Credentials, run and test the "
+"connection, scheduled Actions when the configuration was skipped during the "
+"installation wizard phase."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:267
+msgid ""
+"This is where you are able to set up and store the information provided by "
+"<strong>Shelfless portal after the Shelfless by Bring</strong> plugin was "
+"installed and activated."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:282
+msgid ""
+"The following information can be obtained from Shelfless portal provided by "
+"the Bring account:"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:284
+msgid ""
+"Shelfless portal Customer ID/Dream Logistics Partner ID, unique customer "
+"identification number"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:289
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:329
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:330
+msgid ""
+"Choose which environment to use. Live is for Live Store. Staging is for "
+"testing. Development if you are a developer."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:292
+msgid "Enable Logging, default is Yes."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:294
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:343
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:345
+msgid ""
+"Enabling logging allows Shelfless to write log files for debugging and "
+"tracing purposes. Logs will be shown on the WooCommerce <b>Status</b> page "
+"under the <b>Log</b> tab. This is recommended to be set to Yes."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:301
+msgid ""
+"This is to test the connection between Bring 3PL Shelfless and Bring using "
+"the API Credentials set from the API Credentials tab and delete transients "
+"to record new API settings."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:303
+msgid ""
+"Click the <strong>Run Test</strong> button in order to successfully test "
+"the connection using the API Credentials."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:307
+msgid ""
+"This will serve as a function to remove all old API settings and endpoints "
+"saved in the database."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:323
+msgid ""
+"This can be set up during the installation wizard phase, wherein the user "
+"sets up/manages the scheduled actions like <i>Fetch available stock levels "
+"from Shelfless to WooCommerce</i>, <i>Fulfill orders</i> and <i>Fetch order "
+"updates from Shelfless to WooCommerce</i> in terms of Hourly, Daily, Weekly "
+"schedules and Cron-style commands in Custom field."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:339
+msgid "Is the <strong>action to be performed</strong>."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:341
+msgid ""
+"<i>Fetch available stock levels from Shelfless to WooCommerce</i> fetches "
+"available stock levels from the Shelfless systems"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:342
+msgid ""
+"<i>Fulfill orders</i> fetches new orders from WooCommerce to Shelfless "
+"systems to start fulfill the order"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:343
+msgid ""
+"<i>Fetch order updates from Shelfless to WooCommerce</i> fetches updates "
+"from the Shelfless systems such as change of status"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:346
+msgid "Schedule of <strong>when the action</strong> will be performed"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:347
+msgid ""
+"Schedule the action for a <strong>certain specific time</strong>, e.g., %s, "
+"like: */5 * * * * at every 5th minute past every hour on every day in every "
+"month."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:352
+msgid ""
+"This can be set up during the installation wizard phase, wherein the user "
+"enters identified Web Shop ID."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:368
+msgid ""
+"This is where the user will enter their Shelfless portal API credentials "
+"for Bring shipping."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:387
+msgid ""
+"This is where the user sets up the Stocks that will override the "
+"WooCommerce Manage Stocks settings, Products to fulfill and sync by "
+"Shelfless."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:415
+#: admin/views/bring-3pl-help-user-guide-tab.php:470
+msgid ""
+"This is where the user will be able to select all products, select one or "
+"more products that Shelfless will fulfill and sync."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:430
+msgid "Synchronize Products"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:434
+msgid ""
+"When enabled, this feature allows the user to create and/or update "
+"product/article to Shelfless. Can be enabled globally or product level."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:436
+msgid "Add Custom Fields"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:446
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein the seller has the option to set the default "
+"Country of Origin for an item that has not been set with it. This will not "
+"be used if the field is not checked."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:462
+msgid "Default: pce"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:485
+msgid "Show how many products to display in the list."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:487
+msgid "Select all products that Shelfless will sync."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:489
+msgid "Select one or more product that Shelfless will sync."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:491
+msgid "Go to the next or previous page of the products list, or to a specific page."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:515
+msgid "Include rders in the last number of days for processing"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:521
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2914
+msgid "Process international orders (exports)"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:523
+msgid "Default: no, for two days backward from now"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:527
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2933
+msgid "Use Shelfless custom statuses"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:533
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2952
+msgid "Select custom statuses"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:535
+msgid "Default: None"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:539
+msgid "Show Admin Notifications if an Order is Partially Shipped by Warehouse"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:543
+msgid ""
+"When an order is partially shipped by a warehouse for various reasons, let "
+"Shelfless notify the user so the user can check the orders and statuses."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:545
+msgid "Show Admin notification when an order is cancelled from Warehouse"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:563
+msgid "Default Value-Added Services(VAS) Codes"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:565
+msgid "Default: 1091"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:567
+msgid "Enter one or more VAS codes by clicking on the plus(+) icon."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:592
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to "
+"<strong>fulfill</strong> an order"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:598
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to "
+"<strong>cancel</strong> an order"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:600
+msgid "Order Status to Move to When an Order is Partially Shipped by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:604
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless "
+"<strong>cannot fully fulfill</strong> an order, and only shipped partial of "
+"it."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:610
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless has "
+"<strong>generated a tracking number and the order has been marked "
+"shipped</strong> at the warehouse."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:616
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless "
+"<strong>receives notification</strong> that an order was cancelled from the "
+"warehouse."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:623
+msgid ""
+"This section gives the user the options to set up/manage shipping mappings "
+"and fallback carriers for Shelfless."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:627
+msgid ""
+"This tab will let the user set up/map the existing flat-rate-based shipping "
+"methods and more."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:643
+msgid ""
+"This tab will let the user customize how Shelfless manages your default "
+"fallback carrier/shipping provider for the warehouse to use."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:659
+msgid "What is Shelfless Delivery?"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:661
+msgid ""
+"The most important for the end customer at delivery is to be able to choose "
+"how the package should delivered. By adding Shelfless delivery to your "
+"delivery checkout (for free, no other plugins needed) you add more freedom "
+"for your end customer to choose how the package should be delivered. "
+"Shelfless delivery can be used with Bring as carrier. Shelfless delivery "
+"checkout adds two things at delivery checkout for the end customer. First "
+"thing: It adds the ability for the end customer to choose a specific pickup "
+"point address from a drop down at delivery checkout. Second thing: It uses "
+"APIs to check which Bring services are available for the end customer's "
+"postal code to make sure only available services are shown at delivery "
+"checkout."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:666
+msgid ""
+"Shelfless delivery is already included in the Shelfless by Bring plugin (it "
+"will not cost anything to use it). You just need to set it up and then you "
+"are ready to increase the conversion and sell more! Before you start: make "
+"sure you have fright agreement with Bring since Shelfless Delivery only "
+"works with Bring. If you need more information regarding fright agreements "
+"- please contact your contact person at Bring. A good mix of services to "
+"start with might be home delivery, mail box, pickup point and home delivery "
+"same day."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:671
+msgid "Go to %s tab."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:672
+msgid ""
+"Tick the box for each delivery service you like to offer to your customers. "
+"The selected services will show at checkout if the service is available at "
+"customer's zip code."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:688
+msgid "For each delivery service"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:690
+msgid ""
+"a. Add the title you like to display at checkout. You can change this later "
+"if you change your mind."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:704
+msgid ""
+"b. Add price (without VAT) of delivery. This is the price that will be "
+"displayed at checkout, usually with VAT. You can change this later."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:718
+msgid ""
+"c. If you like to offer free shipping: Toggle on Free shipping and add "
+"minimum order amount (without VAT) for the shipping to be free of charge."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:732
+msgid ""
+"d. Select the merchant addons you like to use. You find a description of "
+"what the addons do %s."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:751
+msgid ""
+"Optional: The products need to have weights and measurements for Shelfless "
+"Delivery to work. Under Advanced settings you can decide which measurements "
+"and weights should be used if it is missing for a product. The default "
+"values are set to fit but you can change them if you like."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:770
+msgid "Save changes!"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:777
+msgid ""
+"Go to %s and add Shelfless delivery as a shipping method for the Shipping "
+"zones where you like to use Shelfless Delivery."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:793
+msgid "Test your checkout so it works as you intended."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:797
+msgid ""
+"Note: if you are using other plugins for the delivery checkout, Shelfless "
+"Delivery might not be compatible."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:802
+msgid ""
+"important information from by Shelfless portal and is provided by the Bring "
+"account like API Key, Customer ID, Secret Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:803
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:301
+msgid "API Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:803
+msgid ""
+"the unique key to communicate and test the connection between Bring 3PL "
+"Shelfless and Bring, should be partnered with a Shelfless API Secret Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:804
+msgid "API Version"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:804
+msgid ""
+"an API version to use for Shelfless Shelfless by Bring name of the plugin "
+"developed by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:805
+msgid "Cron-style commands"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:805
+msgid "used in setting up the custom field in Scheduled Actions tab"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:806
+msgid "provides transportation, brokerage and warehousing"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:807
+msgid "Fetch Inventory updates"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:807
+msgid "fetch and update the stocks and/or quantities"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:808
+msgid "Fetch Order Updates"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:808
+msgid "fetch and update the order statuses"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:809
+msgid "Fulfill Orders"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:809
+msgid "fetch and update the orders fulfillment"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:810
+msgid ""
+"can be set to Staging wherein development/testing is in progress, or Live "
+"when the plugin is ready for production"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:811
+msgid "Shelfless portal Customer ID"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:811
+msgid "a unique customer identification number"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:812
+msgid "Partner ID"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:812
+msgid "a unique dream logistics identification number"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:813
+msgid "Plugins"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:813
+msgid ""
+"a page that enlisted all installed plugins, whether activated or "
+"deactivated."
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:814
+msgid "Products to Fulfill"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:814
+msgid ""
+"listed all product to select, one or more products for selection and be "
+"fulfilled by Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:815
+msgid ""
+"list of jobs to do in the background via cron job with respect as to when "
+"the job is to be performed"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:816
+msgid "Secret key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:816
+msgid ""
+"the unique key to communicate and test the connection between Bring 3PL "
+"Shelfless and Bring, should be partnered with a Shelfless API Key"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:817
+msgid "Shelfless"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:817
+msgid "a fulfilment solution from Bring"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:818
+msgid ""
+"where to set up for Shelfless to know the correct Bring shipping services "
+"for your existing flat-rate-based shipping methods"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:819
+msgid ""
+"for Shelfless to know the correct statuses on WooCommerce to set to when "
+"processing and shipping orders"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:820
+msgid "Stock Settings"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:820
+msgid "the settings that lets user set up/manage the options for stock inventory"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:821
+msgid "Value-Added Services (VAS) Codes"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:821
+msgid "one or more codes to set for shipping"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:822
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4041
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4046
+msgid "Web Shop ID"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:822
+msgid "a unique store identification number"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:823
+msgid "Wizard"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:823
+msgid "the starting phase wherein the user will set up/manage settings initially"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:824
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/views/bring-3pl-help-user-guide-tab.php:824
+msgid ""
+"customizable, open-source eCommerce platform built on WordPress wherein the "
+"plugin is dependent to"
+msgstr ""
+
+#: bring-3pl-shelfless-fulfillment-for-woocommerce.php:87
+msgid ""
+"Shelfless by Bring requires the WooCommerce plugin to be installed and "
+"active. You can download %s here."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:72
+msgid ""
+"Welcome to the Setup Wizard for Shelfless by Bring. Follow these four quick "
+"steps to let Shelfless start to fulfill your orders and make happier "
+"customers!"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:82
+msgid "Enter the information below. The information is provided by Shelfless."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:106
+msgid ""
+"Run test to check if you can connect with Shelfless using the above "
+"information."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:118
+msgid ""
+"The options below let you customize how Shelfless manages your WooCommerce "
+"stocks."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:140
+msgid "Run Test"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:142
+msgid "Diagnostics Results"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:166
+msgid ""
+"Shelfless updates transients and cached automatically (usually at every "
+"hour). If you see that Shelfless has been storing the same data for quite "
+"some time, you can force delete them to have Shelfless fetch again before "
+"the next schedule."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:167
+msgid "Delete Transients"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:197
+msgid "Finish"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:221
+msgid "Skip Configuration and Close This Wizard"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:272
+msgid ""
+"Below you can choose, per product, which articles should be fulfilled and "
+"synchronized with Shelfless."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:331
+msgid "Refresh Grid"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:388
+msgid "Refresh Report"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:402
+msgid "These will serve as default values for Shelfless to use in all the orders."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:415
+msgid ""
+"Shelfless needs to know the correct statuses on WooCommerce to set to when "
+"processing and shipping orders."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:516
+msgid "Fetch available stock levels from Shelfless to WooCommerce"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:522
+msgid "Fulfill orders"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:528
+msgid "Fetch order updates from Shelfless to WooCommerce"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:562
+msgid "Actions"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:577
+msgid ""
+"*To set the scheduled actions custom, use format for cron expression. Go %s "
+"to generate correct format."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:587
+msgid "Custom *"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:598
+msgid "Disable"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:599
+msgid "Hourly"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:600
+msgid "Daily"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:601
+msgid "Weekly"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:680
+msgid ""
+"Below are the WooCommerce shipping methods that are fetched from your "
+"settings. Add a corresponding shipping service to each shipping method."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:684
+msgid ""
+"The following shipping methods can be changed from WooCommerce > Settings > "
+"%s tab."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:746
+msgid "If you are an existing Dream Logistics partner, enter the details below."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:799
+msgid ""
+"Below you set how often you want information to be exchanged between "
+"WooCommerce and Shelfless."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:804
+msgid ""
+"You can change this and add advanced settings later in Shelfless by Bring > "
+"General > Scheduled Actions"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:808
+msgid ""
+"Recommended settings for small and middles sized merchants are “daily” for "
+"fetching stock levels and “hourly” to fulfill orders and fetch order "
+"updates. The recommended settings will give your customers fast delivery "
+"and avoiding Shelfless to overwrite WooCommerce stock levels before the "
+"order has been fulfilled."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:889
+msgid ""
+"The options below let you customize how Shelfless manages your default "
+"fallback carrier/shipping provider for the warehouse to use."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:893
+msgid ""
+"This will be used to make sure the order is shipped even if carrier service "
+"provider and/or shipping method cannot be detected by Shelfless."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:912
+msgid ""
+"Set your Mybring credentials to utilize Bring shipping as part of the "
+"Shelfless Checkout."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:916
+msgid ""
+"The API credentials will be used to pull matching shipping methods "
+"available for an address or zip code during checkout. If you don't have a "
+"Mybring API key, you can generate a new one from the Mybring portal's"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:917
+msgid " %s"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:968
+msgid ""
+"Use the default dimensions below when using Bring as carrier to "
+"successfully utilize Shelfless Delivery for order fulfillment."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1000
+msgid "Increase conversion by starting to use Shelfless delivery."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1003
+msgid ""
+"Use Shelfless Delivery, when using Bring as carrier, to give the customer "
+"ability to choose pickup point from dropdown and only show available "
+"delivery options based on postal code at checkout."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1006
+msgid "For step-by-step instruction on how to get started: go to User guide %s."
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1099
+msgid "Title"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1112
+msgid "Without VAT"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1122
+msgid "Minimum order amount - without VAT"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1129
+msgid "Same Day Delivery Areas"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-admin-functions.php:1147
+msgid "Merchant addons"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:458
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:483
+msgid "Mybring Information:"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:460
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:485
+msgid "Sales Order ID:"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:461
+msgid "Last Shelfless Status:"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:487
+msgid "Shelfless Status:"
+msgstr ""
+
+#: includes/bring-3pl-shelfless-fulfillment-for-woocommerce-helper-functions.php:596
+msgid "Addons"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-activator.php:50
+msgid ""
+"This plugin requires WooCommerce. It will not work without WooCommerce "
+"properly set up and activated. %s"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-activator.php:51
+msgid "Go back to Plugins page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Shelfless by Bring"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:160
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:169
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:170
+msgid "Help"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:285
+msgid "Mybring Customer ID or Dream Logistics Partner ID"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:289
+msgid "Customer ID"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:290
+msgid ""
+"Enter your Mybring Customer ID or Dream Logistics Partner ID. If you don't "
+"know your ID - please contact your contact person at Shelfless or Dream."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:291
+msgid ""
+"You may get your Mybring Customer ID or Dream Logistics Partner ID from "
+"Bring."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:297
+msgid "Shelfless API Key"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:302
+msgid ""
+"Enter your Shelfless API Key. If you don't know your Shelfless API Key - "
+"please contact your Shelfless operational KAM."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:303
+msgid "You may get your Shelfless API Key from Bring."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:309
+msgid "Shelfless API Secret Key"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:313
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:314
+msgid ""
+"Enter your Shelfless API Secret Key. If you don't know your Shelfless API "
+"Secret Key - please contact your Shelfless operational KAM."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:315
+msgid "You may get your Shelfless API Secret Key from Bring."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:325
+msgid "Live"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:326
+msgid "Staging"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:327
+msgid "Development"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:336
+msgid "Enable logging"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:340
+msgid "No"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:341
+msgid "Yes"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:348
+msgid ""
+"Check the <a href=\"/wp-admin/admin.php?page=wc-status&tab=logs\" "
+"target=\"_blank\">WooCommerce Logs</a> to see the recent logs written by "
+"Shelfless."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:518
+msgid "Manage stock"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:523
+msgid ""
+"Synchronize available stock from Shelfless warehouse to WooCommerce and "
+"have Shelfless fulfill orders for all products"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:529
+msgid ""
+"Checking this box will let Shelfless synchronize available stock from the "
+"Shelfless warehouse to WooCommerce, and have Shelfless fulfill orders for "
+"all products with WooCommerce global setting. You can later change this in "
+"both global setting and per product. Default: \"yes\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:536
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4178
+msgid "Synchronize products"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:541
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4183
+msgid "Allow WooCommerce to synchronize product creations and updates to Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:547
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4189
+msgid ""
+"If <b>Synchronize Products</b> is enabled, it allows product creations and "
+"product updates to be sent to Shelfless, for all products. If you want to "
+"exclude specific products from being synced, you can disable product "
+"synchronization at product level later. Default: \"Yes\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:555
+msgid "Admin notification when a product is out of stock"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:560
+msgid "Allow Shelfless to show admin notifications when a product is out of stock"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:566
+msgid ""
+"When stock is below 1, Shelfless invokes a notification on in this page and "
+"in other relevant pages. Default: \"yes\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:574
+msgid "Show admin notification when a product stock is low"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:579
+msgid "Allow Shelfless to show admin notification when stock has met low threshold"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:585
+msgid ""
+"When stock is below low threshold, Shelfless invokes a notification on this "
+"page and in other relevant pages. Default: \"yes\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:593
+msgid "Set low stock threshold value"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:597
+msgid ""
+"Override WooCommerce low stock threshold value with customized low stock "
+"threshold. Default: \"2\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:639
+msgid "Shelfless Setup Wizard"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:765
+msgid "Settings"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:784
+msgid ""
+"Shelfless setup wizard encountered an error during configuration, or your "
+"session has expired. Please try running the setup wizard again."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1270
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1339
+msgid "Enable Fulfillment with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1276
+msgid "Fulfill this item with Shelfless at variation level"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1344
+msgid "Fulfill this item with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1353
+msgid "Enable Article Sync with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1358
+msgid "Sync this item with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1373
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to use cost price as the "
+"declared price for an item."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1380
+msgid "Harmonized Tariff Code - Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1382
+msgid "HS Code"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1384
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to a Harmonized Tariff "
+"System code."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1394
+msgid "- Select Country -"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1399
+msgid "Country of Origin - Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1402
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to a Harmonized System "
+"code."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1615
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3550
+msgid "Some products cannot be updated or are not found."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1762
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1774
+msgid ""
+"No products are set up to be fulfilled by Shelfless. Your Bring third-party "
+"warehouse cannot update your store's inventory as a result. %s to let "
+"Shelfless take care of your fulfillment and dispatching needs."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1853
+msgid ""
+"%s marked as to be fulfilled by Shelfless %s out of stock. It might be "
+"caused by unmatched SKUs. %s Go to %s now to check."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1874
+msgid ""
+"%s marked as to be fulfilled by Shelfless %s having low stocks. It might be "
+"caused by unmatched SKUs. %s Go to %s now to check."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:1962
+msgid "No products marked to be fulfilled. Skipping this cron."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2159
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-order.php:409
+msgid ""
+"One or more products are not fulfillable by Shelfless. It cannot ship this "
+"order."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2180
+msgid "Order has been SENT for fulfillment with Shelfless. Request ID: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2194
+msgid ""
+"Something went wrong when we try to send this order to Shelfless. We will "
+"try again in a few. Here\\'s what we know on what might have caused it: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2200
+msgid ""
+"Something went wrong when we try to send this order to Shelfless. We will "
+"try again in a few."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2338
+msgid "Shelfless: Fulfillment Request Acknowledged"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2350
+msgid "Shelfless: Partially Fulfilled"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2356
+msgid "Shelfless: Fully Fulfilled"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2374
+msgid "Shelfless: Partially Shipped %s %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2386
+msgid "Shelfless: Shipped %s %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2399
+msgid ""
+"Shelfless: Order Cancelled by Warehouse. If this cancellation was not made "
+"locally and pushed to Shelfless, it means that this order was cancelled by "
+"the warehouse."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2408
+msgid ""
+"Backordered at Warehouse. The order cannot be fulfilled at the current time "
+"due to insufficient stock for one or more products. The order will be "
+"fulfilled automatically when stock is available."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2505
+msgid ""
+"Order cancellation detected in the platform. A CANCEL FULFILLMENT attempt "
+"has been SENT to Shelfless for possible cancellation of fulfillment. If the "
+"order items have been picked or inventory has been reserved, the request "
+"may not be processed. Request ID: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2511
+msgid ""
+"A previous cancellation request for this order has been received and "
+"recorded already by Shelfless. Additional information: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2519
+msgid ""
+"Order cancellation detected in the platform, however, cancellation is not "
+"possible with Shelfless at this time."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2547
+msgid ""
+"Order update detected in the platform. An UPDATE attempt has been SENT to "
+"Shelfless for possible fulfillment update. If the order items have been "
+"picked or inventory has been reserved, the update request may not be "
+"processed. Request ID: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2556
+msgid "Order update not possible  at this time: %s "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2565
+msgid ""
+"Order update detected in the platform, however, updating the order "
+"information in Shelfless is not possible  at this time."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2591
+msgid ""
+"There was an error processing scheduled actions, and they could not be "
+"saved as a result. %s Please try again or contact Shelfless if this error "
+"keeps on happening."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2632
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2639
+msgid ""
+"The custom cron value for one of the scheduled actions is invalid. Please "
+"correct the issue and try again."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2651
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2658
+msgid "Scheduled actions saved."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2890
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3147
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4343
+msgid "Request Fulfillment by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2891
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3151
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4344
+msgid "Partially Fulfilled by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2892
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3152
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4345
+msgid "Shipped by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2893
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3153
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4346
+msgid "Cancelled by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2901
+msgid "Include orders in the last number of days for processing"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2906
+msgid ""
+"The span of days you set determines which orders will be included in the "
+"processing. If an order is changed it will also be included in the "
+"processing if they are within the chosen range. The default range is set to "
+"2 days."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2907
+msgid "Include Orders In the Last Number of Days for Processing"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2919
+msgid "Let Shelfless process and ship international orders."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2925
+msgid ""
+"Let Shelfless process and ship international orders (orders exported from "
+"default country set in WooCommerce settings). Exporting should have a "
+"corresponding agreement with Bring. Default: \"no\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2938
+msgid ""
+"Use Shelfless custom statuses in WooCommerce. These statuses can be used to "
+"identify which orders will be fulfilled and managed by Shelfless."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2944
+msgid ""
+"By enabling custom Shelfless statuses, additional statuses will be added to "
+"WooCommerce. You can use the Shelfless statuses to tag orders to let you "
+"identity which orders will be fulfilled by Shelfless."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2957
+msgid ""
+"Select which custom Shelfless statuses you would like to use. The "
+"additional statuses will be added to WooCommerce. You can use the Shelfless "
+"statuses to tag orders to let you identity which orders will be fulfilled "
+"by Shelfless. Can only  be added if \"use Shelfless Custom statuses\" has "
+"been marked with \"yes\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2965
+msgid "Admin notification when an order is cancelled from warehouse"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2970
+msgid ""
+"Allow Shelfless to show admin notifications if an order is cancelled by "
+"Shelfless."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:2976
+msgid ""
+"If an order is cancelled from the warehouse get notified so the order can "
+"be handled. Default: No."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3002
+msgid "WooCommerce order status to start fulfilling an order"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3007
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to fulfill an "
+"order. Default: \"Processing\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3014
+msgid "WooCommerce order status to cancel a fulfillment"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3019
+msgid ""
+"Select a WooCommerce order status that triggers Shelfless to <b>cancel</b> "
+"fulfillment of an order. Default: \"Cancelled\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3026
+msgid "Order status to move to when an order is partially fulfilled by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3031
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless cannot "
+"fully fulfill an order, and can only ship part of it. Default: "
+"\"Processing\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3038
+msgid ""
+"Order status to move to when a tracking number has been created and order "
+"is shipped by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3043
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless has "
+"generated a tracking number and the order has been marked shipped at the "
+"warehouse. Default: \"Completed\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3050
+msgid "Order status to move to when an order is marked cancelled by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3055
+msgid ""
+"Select a WooCommerce order status to move orders to when Shelfless receives "
+"that an order is cancelled from warehouse. Default: \"Cancelled\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3079
+msgid "Request Fulfillment by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Request Fulfillment by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3088
+msgid "Fulfillment Processed by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Fulfillment Processed by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3097
+msgid "Backordered on Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Backordered on Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3106
+msgid "Fulfilled by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Fulfilled by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3115
+msgid "Partially Fulfilled by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Partially Fulfilled by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3124
+msgid "Shipped by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Shipped by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3133
+msgid "Cancelled by Shelfless <span class=\"count\">( %s )</span>"
+msgid_plural "Cancelled by Shelfless <span class=\"count\">( %s )</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3150
+msgid "Fulfilled by Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3204
+msgid ""
+"One or more custom statuses set by Shelfless is currently used as a status. "
+"If you made changes to the selected custom statuses, make sure you update "
+"your Status Mappings."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3343
+msgid "Pakke i postkassen"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3344
+msgid "Pakke i postkassen med RFID"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3345
+msgid "På Døren"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3346
+msgid "Pakke til hentested"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3347
+msgid "Klimanøytral Servicepakke"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3348
+msgid "Pakke levert hjem"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3349
+msgid "Pakke levert hjem - Samme dag"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3350
+msgid "Pakke til bedrift"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3351
+msgid "Ekspress neste dag"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3352
+msgid "Bedriftspakke"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3353
+msgid "Bedriftspakke Ekspress - Over natten"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3355
+msgid "Pakke i Postkassen A-post"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3357
+msgid "DHL ServicePoint"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3358
+msgid "DHL Paket"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3359
+msgid "DHL Parcel Connect (Ombud)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3361
+msgid "DreamPack Service Guide (Dream Logistics)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3363
+msgid "FedEx International Priority"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3364
+msgid "FedEx International Economy"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3366
+msgid "PostNord Varubrev - 1:a klass"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3368
+msgid "UPS Standard"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3369
+msgid "UPS Express Saver"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3390
+msgid ""
+"Select a Bring shipping service for this shipping method. Default: \"Pakke "
+"i postkassen\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3919
+msgid "Ship with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:3922
+msgid "Check this item to make it shippable with Shelfless"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4022
+msgid "Use Dream Logistics"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4027
+msgid "Use Dream Logistics 3PL solutions in your fulfillment."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4033
+msgid ""
+"When enabled, you can set up Dream Logistics for your order fulfillment. "
+"Default: \"no\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4045
+msgid ""
+"If you have one webshop leave the field blank. If you have more than one "
+"webshop please enter Web Shop ID for this webshop."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4200
+msgid "Customs Settings"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4201
+msgid ""
+"This applies for orders to other countries (exports). If only selling "
+"domestically, you can leave these settings as is."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4217
+msgid ""
+"Allow Shelfless to install Customs fields named \"Harmonized Systems Code\" "
+"and \"Country of Origin\" "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4223
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to include Customs "
+"information in the inventory. Default: \"no\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4231
+msgid "Default country of origin"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4236
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to set the default "
+"Country of Origin if an item has not been set with it. This will not be "
+"used if the field above (<b>Add Customs Fields</b>) is not checked. "
+"Default: CN - China."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4244
+msgid "Use cost price field"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4249
+msgid "Allow Shelfless to install a custom field named \"Cost Price\""
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4255
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to use cost price as the "
+"declared price for an item. Default: \"no\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4263
+msgid "Cost price currency"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4268
+msgid ""
+"This field is usually utilized for Customs Commercial Invoices for "
+"international orders wherein seller has the option to use cost price as the "
+"declared price for an item. Default: Global WooCommerce Currency."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4276
+msgid "Basic inventory unit"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4283
+msgid ""
+"Determines the basic inventory unit when countin quantities of inventory. "
+"Default: \"PCS\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4354
+msgid "Fallback carrier"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4359
+msgid ""
+"Set the code for your default carrier/shipping service provider. This code "
+"will be used if Shelfless could not properly determine the carrier in the "
+"order."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4362
+msgid "BPN"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4363
+msgid ""
+"Enter a fallback carrier if it cannot be detected in the system. For flat "
+"rates, this defaults to \"BPN\"."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4370
+msgid "Fallback service (code)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4375
+msgid ""
+"Set the code for your default carrier shipping method. This code will be "
+"used if Shelfless could not properly determine the shipping method in the "
+"order."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4379
+msgid ""
+"Enter a fallback service code if the service cannot be determined. For "
+"Bring, example services are: 5800, 5600, 4850"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4380
+msgid "Fallback Service (Code)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4386
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4396
+msgid "Default fallback addon codes"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4391
+msgid ""
+"Set the default fallback addon code which will be used by Shelfless if "
+"there is no addon code specified in the order. You can add multiple default "
+"fallback addon codes."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4395
+msgid ""
+"Enter an approved value-added services codes, click the plus icon to add "
+"more. Default is 1091."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4441
+msgid ""
+"Alternate Mybring Customer ID (no need to enter if the same as the one "
+"entered in Shelfless)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4445
+msgid "Alternate Customer ID"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4446
+msgid ""
+"Enter your Mybring customer ID . If you don't know your customer ID - "
+"please contact Mybring. If this is empty, Shelfless will use the Mybring "
+"customer number entered in the Shelfless API Credentials tab."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4447
+msgid "You may get your Mybring Customer ID from Bring."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4453
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4457
+msgid "Mybring API Key"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4458
+msgid ""
+"Enter your Mybring API key. If you don't have a Mybring API key, you can "
+"generate a new one on the Mybring portal's API page."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4459
+msgid "You may get your Mybring API Key from Bring."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4465
+msgid "Mybring Email Address"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4469
+msgid "Email Address"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4470
+msgid ""
+"Enter your Mybring email address. This is usually the email address used "
+"when you log in to the Mybring portal. Make sure that this email address "
+"was the one used in generating the API key above."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4471
+msgid ""
+"Most of the time this is the email address used in accessing your Mybring "
+"account."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4513
+msgid "Use default dimensions when missing"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4518
+msgid ""
+"Let Shelfless delivery add default dimensions (can be set below) when "
+"missing to ensure order fulfillment"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4525
+msgid ""
+"If a product lacks dimensions Shelfless delivery cannot fulfill it. By "
+"ticking the box Shelfless will add the default dimensions of your choice "
+"(typically the smallest item in your store) if any dimension is missing so "
+"that the order can be fulfilled. The final package size during shipment "
+"will be determined by the warehouse for optimal shipping."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4537
+msgid "Default dimensions for an item."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4547
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4553
+msgid "Length (cm)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4551
+msgid "Enter length of the smallest item in your webshop in centimeter."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4560
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4566
+msgid "Width (cm)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4564
+msgid "Enter width of the smallest item in your webshop in centimeter."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4573
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4579
+msgid "Height (cm)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4577
+msgid "Enter height of the smallest item in your webshop in centimeter."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4586
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4592
+msgid "Weight (kg)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4590
+msgid "Enter weight of the smallest item in your webshop in kilogram."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4599
+msgid "Maximum package weight (kg)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4603
+msgid ""
+"Enter the maximum weight of the package. Packages more than the maximum "
+"value indicated here will not be rated for shipment by Shelfless. You may "
+"still allow for a separate shipping method (usually flat rates) for "
+"packages that are heavier than the maximum weight indicated here."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4605
+msgid "Maximum weigh (kg)"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4612
+msgid ""
+"Maximum total quantity of items in an order for allowing Shelfless Delivery "
+"services"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4616
+msgid ""
+"Enter the maximum items in the cart for the package. Packages with more "
+"than the number of items indicated here will not be rated for shipment by "
+"Shelfless. You may still allow for a separate shipping method (usually flat "
+"rates) for packages that contain more quantities than the maximum quantity "
+"indicated here. "
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-admin.php:4618
+msgid "Maximum items in the cart for the package"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-delivery.php:67
+msgid ""
+"Use Shelfless Delivery when using Bring as carrier to give the customer "
+"ability to choose pickup point from dropdown and only show available "
+"delivery options based on postal code at checkout."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-http.php:216
+msgid ""
+"Last authentication call to Shelfless Endpoint returned an error: %1$s => "
+"%2$s."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-http.php:284
+msgid "Token received from Shelfless API"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce-order.php:408
+msgid "Formatting order for Shelfless has failed."
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:414
+msgid "Items"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:415
+msgid "Carrier"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:416
+msgid "Service Code"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:417
+msgid "Service"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:418
+msgid "Expected Delivery Date"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:419
+msgid "Pickup Point Location"
+msgstr ""
+
+#: includes/class-bring-3pl-shelfless-fulfillment-for-woocommerce.php:420
+msgid "Pickup Point Agent ID"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.bring.no/radgivning/netthandel/shelfless"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Shelfless by Bring plugin integrates Bring's Mybring and Shelfless "
+"solutions to WooCommerce. This plugin needs an account from Bring such as "
+"Mybring Customer ID, API Key and API Secret Key in order to work. You may "
+"get these details from your Mybring account or from a Bring executive "
+"handling your account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bring"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.bring.no/"
+msgstr ""
